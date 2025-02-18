@@ -137,7 +137,7 @@ a:hover {
 }
 a cite {
   font-style: normal;
-  *cursor: pointer;
+  cursor: pointer;
 }
 .layui-border-box,
 .layui-border-box * {
@@ -149,18 +149,18 @@ a cite {
 }
 .layui-clear {
   clear: both;
-  *zoom: 1;
+  zoom: 1;
 }
 .layui-clear:after {
   content: "\20";
   clear: both;
-  *zoom: 1;
+  zoom: 1;
   display: block;
   height: 0;
 }
 .layui-inline {
-  *display: inline;
-  *zoom: 1;
+  display: inline;
+  zoom: 1;
 }
 .layui-btn,
 .layui-btn-group,
@@ -1993,12 +1993,12 @@ a cite {
 .layui-form-item {
   margin-bottom: 15px;
   clear: both;
-  *zoom: 1;
+  zoom: 1;
 }
 .layui-form-item:after {
   content: "\20";
   clear: both;
-  *zoom: 1;
+  zoom: 1;
   display: block;
   height: 0;
 }
@@ -2547,8 +2547,8 @@ a cite {
 }
 .layui-laypage {
   display: inline-block;
-  *display: inline;
-  *zoom: 1;
+  display: inline;
+  zoom: 1;
   vertical-align: middle;
   margin: 10px 0;
   font-size: 0;
@@ -2577,8 +2577,8 @@ a cite {
 .layui-laypage a,
 .layui-laypage span {
   display: inline-block;
-  *display: inline;
-  *zoom: 1;
+  display: inline;
+  zoom: 1;
   vertical-align: middle;
   padding: 0 15px;
   height: 28px;
@@ -3473,8 +3473,8 @@ body .layui-table-tips .layui-layer-content {
 .layui-nav .layui-nav-item {
   position: relative;
   display: inline-block;
-  *display: inline;
-  *zoom: 1;
+  display: inline;
+  zoom: 1;
   vertical-align: middle;
   line-height: 60px;
 }
@@ -3701,8 +3701,8 @@ body .layui-table-tips .layui-layer-content {
 }
 .layui-tab-title li {
   display: inline-block;
-  *display: inline;
-  *zoom: 1;
+  display: inline;
+  zoom: 1;
   vertical-align: middle;
   font-size: 14px;
   transition: all 0.2s;
